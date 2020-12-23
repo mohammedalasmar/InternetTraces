@@ -1,8 +1,8 @@
 # InternetTraces
 
 # MAWI
-<https://mawi.wide.ad.jp/mawi/ditl/ditl2018-G/>\\
-<http://two.wide.ad.jp/>
+<https://mawi.wide.ad.jp/mawi/ditl/ditl2018-G/>\
+<http://two.wide.ad.jp/>\
 201412311359.txt
 201501021400.txt
 201501031400.txt
