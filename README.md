@@ -115,7 +115,7 @@
 # CAIDA
  “The caida ucsd anonymized internet traces,” 2016. [Online]\
  Available on: \
- <http://www.caida.org/data/passive/passive_dataset.xml>
+ <http://www.caida.org/data/passive/passive_dataset.xml>\
 dirA_20160121_133000_UTC_anon.txt
 dirA_20160121_133300_UTC_anon.txt
 dirA_20160121_133400_UTC_anon.txt
@@ -175,6 +175,8 @@ dirB_20160218_132000_UTC_anon.txt
 
 
 # Waikato
+“Wits: Waikato internet traffic storage,” 2013. [Online]. Available:\
+<https://wand.net.nz/wits/waikato/8/>\
 20110817_055304_64.txt
 20110609_120002_1.txt
 20110616_000000_0.txt
@@ -205,3 +207,9 @@ dirB_20160218_132000_UTC_anon.txt
 20110623_230233_4.txt
 20111027_213205_5.txt
 20111029_110001_1.txt
+
+
+# Twnete
+“Simpleweb/university of twente traffic traces data repository,”\
+<http://eprints.eemcs.utwente.nl/17829/>, Twente uni, Tech. Rep., 2010.\
+
