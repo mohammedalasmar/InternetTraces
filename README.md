@@ -1,4 +1,5 @@
 # InternetTraces
+TODO Add wiki about this repository.
 
 # MAWI
 <https://mawi.wide.ad.jp/mawi/ditl/ditl2018-G/>\
